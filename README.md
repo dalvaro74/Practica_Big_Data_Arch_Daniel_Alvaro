@@ -1,2 +1,3 @@
 # Practica_Big_Data_Arch_Daniel_Alvaro
 Practica de Arquitectura Big Data de Daniel Alvaro 
+Ricardo, aunque en el documento queda clara la idea de negocio y la arquitectura que he diseñado, aprovecho este Readme para pedirte disculpas por el diagrama que he hecho. No te engaño si te digo que es la primera vez que usaba google draw y encima iba super pillado de tiempo. Pues eso, que cuando he visto como quedaba no he podido evitar sentir un poco de vergüenza ajena(bueno, en este caso propia), asi que poco mas te puedo decir... confio en que seas magnanimo con los que suspendimos dibujo tecnico en el colegio. ;-)
